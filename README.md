@@ -58,6 +58,11 @@ I enjoy working on real-world problems, learning by building, and exploring AI-p
 
 ---
 
+## 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=sahilkhan786000&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=sahilkhan786000&theme=city_light&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkhan786000&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+### 🏆 GitHub Trophies ![](https://github-profile-trophy.vercel.app/?username=sahilkhan786000&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
 ## 🏆 Achievements
 - Ranked **Top 3% globally (78/2922)** in CodeStudio contest
 - Solved **500+ DSA problems** across LeetCode, GFG, and CodeStudio
