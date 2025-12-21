@@ -59,8 +59,6 @@ I enjoy working on real-world problems, learning by building, and exploring AI-p
 ---
 
 ## 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=sahilkhan786000&theme=city_light&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=sahilkhan786000&theme=city_light&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkhan786000&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
-### 🏆 GitHub Trophies ![](https://github-profile-trophy.vercel.app/?username=sahilkhan786000&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
-
 ---
 
 ## 🏆 Achievements
@@ -73,13 +71,6 @@ I enjoy working on real-world problems, learning by building, and exploring AI-p
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sahil-khan-31a45a219)
 [![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github)](https://github.com/sahilkhan786000)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox)](your-portfolio-link)
-
----
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=sahilkhan786000&show_icons=true&theme=city_light)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sahilkhan786000&theme=city_light)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkhan786000&layout=compact&theme=city_light)
 
 ---
 
