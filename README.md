@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sahil Khan
 
-🚀 Software Developer with ~1.3 years of industry experience, currently working at **Tudip Technologies**.  
+🚀 Software Developer with 2 years of industry experience, currently working at **Tudip Technologies**.  
 I focus on building backend services, APIs, and full-stack web applications, with hands-on experience in **healthcare** and **CRM** systems.
 
 I enjoy working on real-world problems, learning by building, and exploring AI-powered developer tooling.
